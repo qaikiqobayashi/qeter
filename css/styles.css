@@ -1,15 +1,17 @@
 ::selection
 {
-    background: #60ffaf;
+    background: #ff9500;
     color: #ffffff;
 }
 
 /* for Firefox */
 ::-moz-selection
 {
-    background: #60ffaf;
+    background: #ff9500;
     color: #ffffff;
 }
+
+svg{fill: #ff9500;}
 
 body {
   color: #333; 
